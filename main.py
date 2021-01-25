@@ -58,6 +58,6 @@ async def on_ready():
 
 
 client.loop.create_task(on_ready())
-client.run('NDM0NDI4MjEzOTEzOTc2ODMz.XS6Ibw.nAAt11GbBTJS9f_HDxSFkblQkqE')
+client.run('')
 
 
